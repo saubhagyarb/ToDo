@@ -1,0 +1,45 @@
+<resources>
+    <!-- Dark Theme Colors -->
+    <!-- Primary colors -->
+    <color name="colorPrimary">#6200EE</color> <!-- Deep Purple -->
+    <color name="colorPrimaryVariant">#3700B3</color> <!-- Darker Purple -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- White -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Darker Purple for Status Bar -->
+
+    <!-- Accent color -->
+    <color name="colorAccent">#03DAC6</color> <!-- Teal -->
+
+    <!-- Secondary colors -->
+    <color name="colorSecondary">#03DAC6</color> <!-- Teal -->
+    <color name="colorSecondaryVariant">#018786</color> <!-- Darker Teal -->
+    <color name="colorOnSecondary">#FFFFFF</color> <!-- White -->
+
+    <!-- Background colors -->
+    <color name="backgroundColor">#000000</color> <!-- Black Background -->
+    <color name="colorSurface">#121212</color> <!-- Very Dark Gray Surface -->
+    <color name="colorOnSurface">#E0E0E0</color> <!-- Light Gray Text on Surface -->
+    <color name="colorError">#B00020</color> <!-- Error Red -->
+    <color name="colorOnError">#FFFFFF</color> <!-- White Text on Error -->
+
+    <!-- Light Theme Colors -->
+    <!-- Primary colors -->
+    <color name="colorPrimaryLight">#BB86FC</color> <!-- Light Purple -->
+    <color name="colorPrimaryVariantLight">#3700B3</color> <!-- Darker Light Purple -->
+    <color name="colorOnPrimaryLight">#000000</color> <!-- Black -->
+    <color name="colorPrimaryDarkLight">#3700B3</color> <!-- Darker Purple for Status Bar -->
+
+    <!-- Accent color -->
+    <color name="colorAccentLight">#03DAC6</color> <!-- Teal -->
+
+    <!-- Secondary colors -->
+    <color name="colorSecondaryLight">#03DAC6</color> <!-- Teal -->
+    <color name="colorSecondaryVariantLight">#018786</color> <!-- Darker Teal -->
+    <color name="colorOnSecondaryLight">#000000</color> <!-- Black -->
+
+    <!-- Background colors -->
+    <color name="colorSurfaceLight">#F5F5F5</color> <!-- Light Gray Surface -->
+    <color name="colorOnSurfaceLight">#000000</color> <!-- Black Text on Surface -->
+    <color name="colorErrorLight">#B00020</color> <!-- Error Red -->
+    <color name="colorOnErrorLight">#FFFFFF</color>
+    <color name="white">#FFFFFF</color> <!-- White Text on Error -->
+</resources>
