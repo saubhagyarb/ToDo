@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Task Title"
-        style="@style/RoundedTextInputLayout">
+        >
 
         <EditText
             android:id="@+id/task_title"
@@ -24,8 +24,7 @@
         android:id="@+id/task_description_input_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Task Description"
-        style="@style/RoundedTextInputLayout">
+        android:hint="Task Description">
 
         <EditText
             android:id="@+id/task_description"
