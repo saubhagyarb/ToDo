@@ -31,13 +31,14 @@
             android:textSize="16sp"
             android:textColor="?attr/colorOnSurfaceVariant"/>
 
-        <com.google.android.material.button.MaterialButton
+        <ImageButton
             android:id="@+id/delete_task_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Delete"
-            android:textColor="?attr/colorError"
-            style="@style/Widget.MaterialComponents.Button.TextButton"/>
+            android:src="@drawable/delete"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="8dp"
+            android:contentDescription="Delete task" />
 
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>

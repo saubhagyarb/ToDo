@@ -3,8 +3,8 @@ package com.example.todo;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.CheckBox;
+import android.widget.ImageButton;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -50,7 +50,7 @@ public class TaskAdapter extends RecyclerView.Adapter<TaskAdapter.TaskViewHolder
     class TaskViewHolder extends RecyclerView.ViewHolder {
         private TextView titleView;
         private CheckBox completedCheckBox;
-        private Button deleteButton;
+        private ImageButton deleteButton;
 
         TaskViewHolder(@NonNull View itemView) {
             super(itemView);
