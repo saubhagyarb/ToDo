@@ -8,5 +8,6 @@
   <tr>
     <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/0093f4bf-32a7-46c6-b6e2-8a8da20b8bfc" alt="Screenshot 4" width="300"/></td>
     <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/d0397f00-76ce-433f-866b-8ab0ea2fedc3" alt="Screenshot 5" width="300"/></td>
+    <td style="padding: 10px;"><img src="https://github.com/user-attachments/assets/bf78cea7-355d-4a61-b82c-026edc8488ac" alt="Screenshot 6" width="300"/></td>
   </tr>
 </table>
